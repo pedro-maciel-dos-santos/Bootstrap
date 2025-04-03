@@ -176,7 +176,7 @@ header, .navbar {
 }
 
 .circle-box div {
-    padding: o 40px;
+    padding: 0 40px;
 }
 
 .progressbar-text {
@@ -438,8 +438,6 @@ border-radius: 0;
     text-decoration: none;
     color: #3ec1d5;
 }
-
-/* Responsive */
 
 
 
